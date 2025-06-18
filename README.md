@@ -1,16 +1,23 @@
 # 🎉 Mario Party Online Multiplayer
 
-## 🎬 Demo Videos
-
-### 🎮 Mario Party Gameplay
-
-[![Watch the Gameplay](https://img.youtube.com/vi/uFKrlUNdP6w/hqdefault.jpg)](https://youtu.be/uFKrlUNdP6w)
-
-### 🔄 Nintendo Switch model
-
-[![Watch the model](https://img.youtube.com/vi/qYjCkL5Xdjw/hqdefault.jpg)](https://youtu.be/qYjCkL5Xdjw)
-
----
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://youtu.be/uFKrlUNdP6w">
+        <img src="https://img.youtube.com/vi/uFKrlUNdP6w/hqdefault.jpg" width="360"/>
+        <br/>
+        <b>🎮 Mario Party Gameplay</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://youtu.be/qYjCkL5Xdjw">
+        <img src="https://img.youtube.com/vi/qYjCkL5Xdjw/hqdefault.jpg" width="360"/>
+        <br/>
+        <b>🔄 Switch Loading Screen</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
 A Unity-powered **online Mario Party-style game** with PvP and CPU modes. Built as part of a Shenkar College course, featuring my original **Nintendo Switch loading screen**, ported from Cinema4D.
 
